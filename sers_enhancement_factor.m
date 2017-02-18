@@ -1,5 +1,5 @@
 function [EF, varargout]= sers_enhancement_factor(waveNumber, ramanSpectrum, SERSspectrum, varargin)
-% Estimates surface-enhanced Raman spectroscopy (SERS)
+% Estimates surface-enhanced Raman spectroscopy (SERS) enhancement factor
 %
 % SYNTAX
 % [EF, paramStruct] = sers_enhancement_factor(waveNumber, ramanSpectrum, ...
