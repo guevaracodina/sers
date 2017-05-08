@@ -8,7 +8,7 @@ Biocompatible gold/silver nanostars for surface-enhanced Raman scattering. <br /
 Journal of Raman Spectroscopy, 47(6), 651–655. <br />
 https://doi.org/10.1002/jrs.4888 <br /> <br />
 _______________________________________________________________________________<br />
-Copyright (C) 2017 Edgar Guevara, PhD<br />
+Copyright (C) 2017 Edgar Guevara, PhD and Francisco Javier González, PhD <br />
 CONACYT-Universidad Autónoma de San Luis Potosí<br />
 Coordinación para la Innovación y Aplicación de la Ciencia y la Tecnología<br />
 _______________________________________________________________________________<br />
