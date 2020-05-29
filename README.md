@@ -2,6 +2,9 @@
 Estimates surface-enhanced Raman spectroscopy (SERS) enhancement factor. <br />
 See sers_enhancement_factor_script.m for an example of usage. <br />
 
+Cite as: <br />
+Hernández‐Vidales, K., Guevara, E., Olivares‐Illana, V., & González, F. J. (2019). _Characterization of wild-type and mutant p53 protein by Raman spectroscopy and multivariate methods_. Journal of Raman Spectroscopy, **50**(10), 1388–1394. https://doi.org/10.1002/jrs.5655
+
 Reference <br />
 Childs, A., Vinogradova, E., Ruiz-Zepeda, F., Velazquez-Salazar, J. J., & Jose-Yacaman, M. (2016).<br />
 Biocompatible gold/silver nanostars for surface-enhanced Raman scattering. <br />
